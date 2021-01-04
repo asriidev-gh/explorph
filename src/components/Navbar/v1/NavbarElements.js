@@ -1,5 +1,5 @@
 import { Link } from "gatsby"
-import { DiScala } from "react-icons/Di"
+import { DiScala } from "react-icons/di"
 import styled from "styled-components"
 import { Link as LinkS } from "react-scroll";
 
@@ -93,7 +93,7 @@ export const NavLinks = styled(LinkS)`
   height: 100%;
   font-family: "Ubuntu", sans-serif;
   cursor: pointer;
-  
+
   @media screen and (max-width: 960px) {
     text-align: center;
     padding: 2rem;
